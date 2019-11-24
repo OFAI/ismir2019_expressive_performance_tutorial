@@ -1,4 +1,4 @@
-# Computational Modeling of Musical Expression: Perspectives, Datasets, Analysis and Generation
+# Tutorial Description
 
 The aim of this tutorial is to introduce the theory and practice of music performance research to a broad MIR audience. A music performance---an acoustic or audio-visual rendering of it---provides a much richer musical experience than the symbolic or notated representation of the performed music. This richness is arguably an important aspect of our engagement with music and is shaped by the musician's interpretation of the intentions of the music, as conveyed through their performance. The means of expressing these intentions vary from one instrument to another, and can include tempo, timing, dynamics, articulation, timbre, and intonation, among others.
 In this tutorial we will give a brief overview of the music performance literature and highlight how expressive dimensions affect the perception and the creation of music. Furthermore we will showcase some state-of-the-art computational methods for both analysis and synthesis of expressive piano performances. 
