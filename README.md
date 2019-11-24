@@ -8,8 +8,7 @@ In this tutorial we will give a brief overview of the music performance literatu
 
 ### Slides
 
-The slides of the presentation can be found [here](https://github.com/neosatrapahereje/ismir2019_expressive_performance_tutorial/blob/master/ismir2019_T4_slides.pdf)
-<!-- [here](https://basismixer.cp.jku.at/ismir2019_tutorial/slides.pdf). -->
+The slides of the presentation can be found [here](https://github.com/neosatrapahereje/ismir2019_expressive_performance_tutorial/blob/master/ismir2019_T4_slides.pdf).
 
 ### Interactive Jupyter Notebooks
 
