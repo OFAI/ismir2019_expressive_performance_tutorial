@@ -55,7 +55,7 @@ Alternatively, setup locally using git:
 The second hands-on part of the tutorial was presented by Maarten Grachten and Carlos Cancino-Chacón. 
 It provides an overview to the Basis Mixer, a machine learning system for generating expressive performances given a score.
 
-[Interactive Jupyter Notebook] (https://bit.ly/2WFL90A)
+[Interactive Jupyter Notebook](https://bit.ly/2WFL90A)
 
 [Repository for the notebook](https://github.com/mgrachten/basismixer-notebooks)
 
@@ -91,7 +91,5 @@ Alternatively, setup locally using git:
 ## Acknowledgements
 This work is partially supported by the European Research Council (ERC) under the European Union's Horizon 2020 Research and Innovation Programme under grant agreement No 670035 (project "Con Espressione").
 
-![alt text][logo]
-
-[logo]: https://github.com/neosatrapahereje/ismir2019_expressive_performance_tutorial/LOGO_ERC-FLAG_EU_.jpg "Logo Title Text 2"
+<img src="http://erc.europa.eu/sites/default/files/LOGO_ERC-FLAG_EU_.jpg" width="350"/>
 
