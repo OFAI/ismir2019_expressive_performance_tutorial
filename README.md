@@ -48,9 +48,7 @@ Alternatively, setup locally using git:
 4. In the browser window select file `ismir_tutorial.ipynb`.
 	
 
-
-
-#### Hands-on Part II: Generation of Expressive Performance
+#### Hands-on Part II: Generation of Expressive Performances
 
 The second hands-on part of the tutorial was presented by Maarten Grachten and Carlos Cancino-Chacón. 
 It provides an overview to the Basis Mixer, a machine learning system for generating expressive performances given a score.
@@ -61,13 +59,13 @@ It provides an overview to the Basis Mixer, a machine learning system for genera
 
 Alternatively, setup locally using git:
 
-1. Clone repository
+1. Clone repository:
 
 	```bash
-	clone https://github.com/mgrachten/basismixer-notebooks.git
+	git clone https://github.com/mgrachten/basismixer-notebooks.git
 	```
 	
-2. Install requirements
+2. Install requirements (with [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/)):
 
 	```bash
 	cd basismixer-notebooks
