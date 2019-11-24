@@ -1,4 +1,4 @@
-# Tutorial Description
+This website provides the materials for the Tutorial [[T4] Computational Modeling of Musical Expression: Perspectives, Datasets, Analysis and Generation](https://ismir2019.ewi.tudelft.nl/?q=node/39) presented by Carlos Cancino-Chacón, Katerina Kosta and Maarten Grachten at the [2019 International Society for Music Information Retrieval Conference](https://ismir2019.ewi.tudelft.nl).
 
 The aim of this tutorial is to introduce the theory and practice of music performance research to a broad MIR audience. A music performance---an acoustic or audio-visual rendering of it---provides a much richer musical experience than the symbolic or notated representation of the performed music. This richness is arguably an important aspect of our engagement with music and is shaped by the musician's interpretation of the intentions of the music, as conveyed through their performance. The means of expressing these intentions vary from one instrument to another, and can include tempo, timing, dynamics, articulation, timbre, and intonation, among others.
 In this tutorial we will give a brief overview of the music performance literature and highlight how expressive dimensions affect the perception and the creation of music. Furthermore we will showcase some state-of-the-art computational methods for both analysis and synthesis of expressive piano performances. 
@@ -88,9 +88,10 @@ Alternatively, setup locally using git:
 
 [**Maarten Grachten**](https://maarten.grachten.eu) is a senior researcher in machine learning for music and sound technology, currently active as an independent machine learning consultant. He holds an M.Sc. in Artificial Intelligence from University of Groningen (The Netherlands, 2001), and a Ph.D. in Computer Science and Digital Communication from Pompeu Fabra University (Spain, 2007). He has worked on computational modeling of musical expression in jazz and classical music since 2001. His work has been funded by European and national research grants at research institutions including the Austrian Research Institute for Artificial Intelligence (OFAI) and Johannes Kepler University (Austria), and has been published in international peer-reviewed conferences and journals.
 
-## References
-
 ## Acknowledgements
 This work is partially supported by the European Research Council (ERC) under the European Union's Horizon 2020 Research and Innovation Programme under grant agreement No 670035 (project "Con Espressione").
 
+![alt text][logo]
+
+[logo]: https://github.com/neosatrapahereje/ismir2019_expressive_performance_tutorial/LOGO_ERC-FLAG_EU_.jpg "Logo Title Text 2"
 
