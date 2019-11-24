@@ -1,4 +1,4 @@
-This website provides the materials for the Tutorial [[T4] Computational Modeling of Musical Expression: Perspectives, Datasets, Analysis and Generation](https://ismir2019.ewi.tudelft.nl/?q=node/39) presented by Carlos Cancino-Chacón, Katerina Kosta and Maarten Grachten at the [2019 International Society for Music Information Retrieval Conference](https://ismir2019.ewi.tudelft.nl).
+This website provides the materials for the Tutorial [[T4] Computational Modeling of Musical Expression: Perspectives, Datasets, Analysis and Generation](https://ismir2019.ewi.tudelft.nl/?q=node/39) presented by Carlos Cancino-Chacón, Katerina Kosta and Maarten Grachten at the [20th International Society for Music Information Retrieval Conference (ISMIR 2019)](https://ismir2019.ewi.tudelft.nl).
 
 The aim of this tutorial is to introduce the theory and practice of music performance research to a broad MIR audience. A music performance---an acoustic or audio-visual rendering of it---provides a much richer musical experience than the symbolic or notated representation of the performed music. This richness is arguably an important aspect of our engagement with music and is shaped by the musician's interpretation of the intentions of the music, as conveyed through their performance. The means of expressing these intentions vary from one instrument to another, and can include tempo, timing, dynamics, articulation, timbre, and intonation, among others.
 In this tutorial we will give a brief overview of the music performance literature and highlight how expressive dimensions affect the perception and the creation of music. Furthermore we will showcase some state-of-the-art computational methods for both analysis and synthesis of expressive piano performances. 
@@ -8,7 +8,8 @@ In this tutorial we will give a brief overview of the music performance literatu
 
 ### Slides
 
-The slides of the presentation can be found [here](https://basismixer.cp.jku.at/ismir2019_tutorial/slides.pdf).
+The slides of the presentation can be found [here](https://github.com/neosatrapahereje/ismir2019_expressive_performance_tutorial/blob/master/ismir2019_T4_slides.pdf)
+<!-- [here](https://basismixer.cp.jku.at/ismir2019_tutorial/slides.pdf). -->
 
 ### Interactive Jupyter Notebooks
 
